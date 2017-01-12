@@ -1,0 +1,67 @@
+# Copyright (C) 2017 Kunta API Fragments
+# This file is distributed under the same license as the Kunta API Fragments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kunta API Fragments 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-kunta-"
+"api-fragments\n"
+"POT-Creation-Date: 2017-01-12 16:49:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: kunta-api-fragments.php:16 kunta-api-fragments.php:26
+#: kunta-api-fragments.php:27
+msgid "Fragments"
+msgstr ""
+
+#: kunta-api-fragments.php:17
+msgid "Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:18
+msgid "Add Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:19
+msgid "Add New Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:20
+msgid "Edit Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:21
+msgid "New Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:22
+msgid "View Fragment"
+msgstr ""
+
+#: kunta-api-fragments.php:23
+msgid "Search Fragments"
+msgstr ""
+
+#: kunta-api-fragments.php:24
+msgid "No Fragments found"
+msgstr ""
+
+#: kunta-api-fragments.php:25
+msgid "No Fragments in trash"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kunta API Fragments"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Kunta API Fragments plugin for Wordpress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Antti Leppä / Metatavu Oy"
+msgstr ""
